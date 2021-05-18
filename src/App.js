@@ -8,6 +8,7 @@ function App() {
   return (
     <BrowserRouter>
       <div className="App">
+      <Main />
       {/* <div className="menu">
         <NavLink to="/uniswap-guide">
           <button>Uniswap Guide</button>
