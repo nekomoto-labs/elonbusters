@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/elonbusters/static/css/main.d24ab4fb.chunk.css",
-    "main.js": "/elonbusters/static/js/main.5c3c0ee2.chunk.js",
-    "main.js.map": "/elonbusters/static/js/main.5c3c0ee2.chunk.js.map",
+    "main.js": "/elonbusters/static/js/main.72e63721.chunk.js",
+    "main.js.map": "/elonbusters/static/js/main.72e63721.chunk.js.map",
     "runtime-main.js": "/elonbusters/static/js/runtime-main.716be7ba.js",
     "runtime-main.js.map": "/elonbusters/static/js/runtime-main.716be7ba.js.map",
     "static/js/2.ec26411e.chunk.js": "/elonbusters/static/js/2.ec26411e.chunk.js",
@@ -12,12 +12,12 @@
     "index.html": "/elonbusters/index.html",
     "static/css/main.d24ab4fb.chunk.css.map": "/elonbusters/static/css/main.d24ab4fb.chunk.css.map",
     "static/js/2.ec26411e.chunk.js.LICENSE.txt": "/elonbusters/static/js/2.ec26411e.chunk.js.LICENSE.txt",
-    "static/media/elonbusters-logo.a7ffe26e.png": "/elonbusters/static/media/elonbusters-logo.a7ffe26e.png"
+    "static/media/elonbusters-logo.926bb414.png": "/elonbusters/static/media/elonbusters-logo.926bb414.png"
   },
   "entrypoints": [
     "static/js/runtime-main.716be7ba.js",
     "static/js/2.ec26411e.chunk.js",
     "static/css/main.d24ab4fb.chunk.css",
-    "static/js/main.5c3c0ee2.chunk.js"
+    "static/js/main.72e63721.chunk.js"
   ]
 }
