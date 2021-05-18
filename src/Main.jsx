@@ -1,17 +1,17 @@
 import React from 'react';
 import { NavLink } from 'react-router-dom';
 
-import hoge from './hoge.png';
+import hoge from './elonbusters-logo.png';
 
 export default function Main() {
   return (
     <div className="main">
       <div className="child">
         <div className="title">
-          <img className="logo" src={hoge} alt="hoge" />
-          <h1>HOGE FINANCE</h1>
+          <img className="logo" src={hoge} alt="hoge" width = "1000"/>
+          <h1>WHO YOU GONNA CALL?</h1>
           <p>A deflationary farming meme powered currency.</p>
-          <p>It's DOGE but DeFi.</p>
+          <p>The anti-DOGE, anti-ELON DeFi token of choice.</p>
           <br />
           <a className="mr-5" href="https://t.me/hogefinance" target="_blank">
             <svg
@@ -139,7 +139,7 @@ export default function Main() {
           <div>
             <h3>Tokenomics:</h3>
             <ul>
-              <li>1,000,000,000,000 Max supply</li>
+              <li>1,000,000,000,000,000 Max supply</li>
               <li>All supply added to liquidity</li>
               <li>No team tokens</li>
               <li>Fair launch</li>
@@ -148,9 +148,9 @@ export default function Main() {
           <div>
             <h3>Rules:</h3>
             <ul>
-              <li>1% burn every swap</li>
-              <li>1% distributed to holders every swap</li>
-              <li>Use at least 2.5% slippage when swap</li>
+              <li>5% added to liquidity every swap</li>
+              <li>5% distributed to holders every swap</li>
+              <li>Use at least 2.5% slippage when swapping</li>
             </ul>
           </div>
           <div>
@@ -190,11 +190,7 @@ export default function Main() {
             href="https://app.uniswap.org/#/swap?inputCurrency=ETH&outputCurrency=0xfad45e47083e4607302aa43c65fb3106f1cd7607"
             target="_blank"
           >
-            <button className="buybtn">Swap on Uniswap</button>
-          </a>
-
-          <a href="http://hoge.fun" target="_blank">
-            <button className="buybtn">PLAY Hoge Runner</button>
+            <button className="buybtn">Swap on PancakeSwap</button>
           </a>
         </div>
       </div>
