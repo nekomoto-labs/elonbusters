@@ -55,8 +55,9 @@ class Sparkles extends Component {
               density: {
                 enable: true,
                 value_area: 800,
+                factor: 1500
               },
-              value: 180,
+              value: 70,
             },
             opacity: {
               value: 1,
