@@ -31,10 +31,10 @@ class Sparkles extends Component {
           },
           particles: {
             color: {
-              value: "#4dd0e1",
+              value: "#54D55D",
             },
             links: {
-              color: "#4dd0e1",
+              color: "#54D55D",
               distance: 120,
               enable: true,
               opacity: 1,
