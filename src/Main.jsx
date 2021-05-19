@@ -1,6 +1,7 @@
 import React from 'react';
 import { NavLink } from 'react-router-dom';
 
+
 import hoge from './elonbusters-logo.png';
 
 export default function Main() {
@@ -8,7 +9,7 @@ export default function Main() {
     <div className="main">
       <div className="child">
         <div className="title">
-          <img className="logo" src={hoge} alt="hoge" width = "1000"/>
+          <img className="logo" src={hoge} alt="hoge" width = "00"/>
           <h1>WHO YOU GONNA CALL?</h1>
           <p>A deflationary farming meme powered currency.</p>
           <p>The anti-DOGE, anti-ELON DeFi token of choice.</p>
@@ -190,7 +191,7 @@ export default function Main() {
             href="https://app.uniswap.org/#/swap?inputCurrency=ETH&outputCurrency=0xfad45e47083e4607302aa43c65fb3106f1cd7607"
             target="_blank"
           >
-            <button className="buybtn">Swap on PancakeSwap</button>
+            <button className="buybtn">Buy on PancakeSwap</button>
           </a>
         </div>
       </div>
