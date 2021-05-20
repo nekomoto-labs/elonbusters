@@ -1,23 +1,23 @@
 {
   "files": {
-    "main.css": "/elonbusters/static/css/main.848bc06a.chunk.css",
-    "main.js": "/elonbusters/static/js/main.1c6b25f7.chunk.js",
-    "main.js.map": "/elonbusters/static/js/main.1c6b25f7.chunk.js.map",
-    "runtime-main.js": "/elonbusters/static/js/runtime-main.b1e6ae4b.js",
-    "runtime-main.js.map": "/elonbusters/static/js/runtime-main.b1e6ae4b.js.map",
-    "static/js/2.6a67b623.chunk.js": "/elonbusters/static/js/2.6a67b623.chunk.js",
-    "static/js/2.6a67b623.chunk.js.map": "/elonbusters/static/js/2.6a67b623.chunk.js.map",
-    "static/js/3.ccedd059.chunk.js": "/elonbusters/static/js/3.ccedd059.chunk.js",
-    "static/js/3.ccedd059.chunk.js.map": "/elonbusters/static/js/3.ccedd059.chunk.js.map",
-    "index.html": "/elonbusters/index.html",
-    "static/css/main.848bc06a.chunk.css.map": "/elonbusters/static/css/main.848bc06a.chunk.css.map",
-    "static/js/2.6a67b623.chunk.js.LICENSE.txt": "/elonbusters/static/js/2.6a67b623.chunk.js.LICENSE.txt",
-    "static/media/elonbusters-logo.926bb414.png": "/elonbusters/static/media/elonbusters-logo.926bb414.png"
+    "main.css": "/www.elonbusters.com/static/css/main.848bc06a.chunk.css",
+    "main.js": "/www.elonbusters.com/static/js/main.4960909e.chunk.js",
+    "main.js.map": "/www.elonbusters.com/static/js/main.4960909e.chunk.js.map",
+    "runtime-main.js": "/www.elonbusters.com/static/js/runtime-main.17ee03e8.js",
+    "runtime-main.js.map": "/www.elonbusters.com/static/js/runtime-main.17ee03e8.js.map",
+    "static/js/2.6a67b623.chunk.js": "/www.elonbusters.com/static/js/2.6a67b623.chunk.js",
+    "static/js/2.6a67b623.chunk.js.map": "/www.elonbusters.com/static/js/2.6a67b623.chunk.js.map",
+    "static/js/3.ccedd059.chunk.js": "/www.elonbusters.com/static/js/3.ccedd059.chunk.js",
+    "static/js/3.ccedd059.chunk.js.map": "/www.elonbusters.com/static/js/3.ccedd059.chunk.js.map",
+    "index.html": "/www.elonbusters.com/index.html",
+    "static/css/main.848bc06a.chunk.css.map": "/www.elonbusters.com/static/css/main.848bc06a.chunk.css.map",
+    "static/js/2.6a67b623.chunk.js.LICENSE.txt": "/www.elonbusters.com/static/js/2.6a67b623.chunk.js.LICENSE.txt",
+    "static/media/elonbusters-logo.926bb414.png": "/www.elonbusters.com/static/media/elonbusters-logo.926bb414.png"
   },
   "entrypoints": [
-    "static/js/runtime-main.b1e6ae4b.js",
+    "static/js/runtime-main.17ee03e8.js",
     "static/js/2.6a67b623.chunk.js",
     "static/css/main.848bc06a.chunk.css",
-    "static/js/main.1c6b25f7.chunk.js"
+    "static/js/main.4960909e.chunk.js"
   ]
 }
